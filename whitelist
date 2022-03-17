@@ -8,11 +8,11 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ||*.baidu.com
 ||*.bdimg.*
+||*.bkimg.*
+||www.iqiyi.com
 ||v.qq.com
 ||www.bilibili.com
-||www.iqiyi.com
-||link.zhihu.com
-||www.zhihu.com
+||*.zhihu.com
 ||*.douban.com
 ||www.miguvideo.com
 
