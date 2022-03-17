@@ -6,9 +6,13 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                通用                !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-||*.baidu.com
+||*baidu.com
 ||*.bdimg.*
+||bdimg.*
+||*.bdimg
 ||*.bkimg.*
+||bkimg.*
+||*.bkimg
 ||www.iqiyi.com
 ||v.qq.com
 ||www.bilibili.com
